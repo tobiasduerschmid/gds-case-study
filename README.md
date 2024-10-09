@@ -1,13 +1,13 @@
 # Open Design Case Studies
 
-This case study is part of the Open Design Case Study project. This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 ([CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/us/)) United States License (or any license deemed suitable for the case study).
+This case study is part of the Open Design Case Study project. This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 ([CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/us/)) United States License .
 
 ### Citation
 
-Add citation to the case studies, if any (e.g. Zenodo)
+
 ### Title
 
-Add title here
+Global Distribution System (GDS) - Case Study on Interoperability 
 
 ### Objectives
 
